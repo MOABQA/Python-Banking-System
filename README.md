@@ -29,7 +29,6 @@ The system includes:
 - Centralized and secure information storage and retrieval.  
 - Generating transaction reports and maintaining account statuses.  
 
----
 
 ## **Setup Instructions**  
 Follow these steps to set up the system on your machine:  
